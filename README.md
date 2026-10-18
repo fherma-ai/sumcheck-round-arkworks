@@ -21,7 +21,6 @@ to answer early.
 ## The shapes
 
 - `evals` — tensor<N x L x u64>
-- `q` — tensor<L x u64>
 - returns `poly` — tensor<3 x L x u64>
 
 ## Generated, and not yours
